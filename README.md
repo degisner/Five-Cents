@@ -1,3 +1,3 @@
 # Five-Cents
 Helps tracking money flow.
-![GitHub](https://user-images.githubusercontent.com/26133299/149959327-c927d424-4c88-4ef5-805c-7fad135039e7.jpg)
+![GitHub](https://user-images.githubusercontent.com/26133299/149959523-1a99f7c3-e412-4f95-9f14-b92795b5f549.jpg)
