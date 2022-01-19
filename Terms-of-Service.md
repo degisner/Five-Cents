@@ -1,4 +1,4 @@
-# Terms of Service
+# Terms of Use
 Last updated January 18, 2022.
 
 Five Cents is licensed to You (End-User) by Andrew Tanchuk, located and registered at pas. 2nd Halutskyi, Khmelnitskyi, Khmelnitskyi 29018, Ukraine (hereinafter: Licensor), for use only
