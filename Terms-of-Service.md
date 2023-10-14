@@ -1,7 +1,7 @@
 # Terms of Use
 Last updated January 18, 2022.
 
-Five Cents is licensed to You (End-User) by Andrew Tanchuk, located and registered at pas. 2nd Halutskyi, Khmelnitskyi, Khmelnitskyi 29018, Ukraine (hereinafter: Licensor), for use only
+Five Cents is licensed to You (End-User) by Andrew Tanchuk, located and registered in Khmelnitskyi 29018, Ukraine (hereinafter: Licensor), for use only
 under the terms of this License Agreement. Our VAT number is 3358117755.
 By downloading the Application from the Apple AppStore, and any update thereto (as permitted by this License Agreement), You indicate that you agree to be bound by all of the terms and
 conditions of this License Agreement, and that you accept this License Agreement.
