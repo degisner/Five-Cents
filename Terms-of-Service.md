@@ -128,8 +128,7 @@ supporting" country; and that you are not listed on any U.S. Government list of 
 # 12. CONTACT INFORMATION
 For general inquiries, complaints, questions or claims concerning the licensed Application, please contact:
 Andrew
-pas. 2nd Halutskyi
-Khmelnitskyi, Khmelnitskyi 29018
+Khmelnitskyi 29018
 Ukraine
 andrew.dsgnr@gmail.com
 
